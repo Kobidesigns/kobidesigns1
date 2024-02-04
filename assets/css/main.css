@@ -47,7 +47,7 @@
 /*----------------------------------------
     01. common css
 ----------------------------------------*/
-@import url("../../../../../css2");
+@import url("../fonts/BauhausStd/css2");
 * {
   margin: 0;
   padding: 0;
@@ -55,7 +55,7 @@
 }
 
 body {
-  font-family: "Rubik", sans-serif;
+  font-family: "Bauhaus Std, Cinzel Decorative";
   font-size: 16px;
   font-weight: 400;
   color: var(--clr-common-text);
@@ -185,9 +185,9 @@ li {
 }
 
 p {
-  font-family: "Rubik", sans-serif;
+  font-family: "Bauhaus Std", sans-serif;
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 350;
   color: var(--clr-common-text);
   margin-bottom: 15px;
   line-height: 25.6px;
