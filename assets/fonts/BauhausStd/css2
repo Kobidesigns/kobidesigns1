@@ -1,0 +1,93 @@
+﻿@font-face {
+  font-family: 'Bauhaus Std';
+  src: url('BauhausStd-Demi.eot');
+  src: local('Bauhaus Std Demi'), local('BauhausStd-Demi'),
+      url('BauhausStd-Demi.eot?#iefix') format('embedded-opentype'),
+      url('BauhausStd-Demi.woff2') format('woff2'),
+      url('BauhausStd-Demi.woff') format('woff'),
+      url('BauhausStd-Demi.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bauhaus Std';
+  src: url('BauhausStd-Medium.eot');
+  src: local('Bauhaus Std Medium'), local('BauhausStd-Medium'),
+      url('BauhausStd-Medium.eot?#iefix') format('embedded-opentype'),
+      url('BauhausStd-Medium.woff2') format('woff2'),
+      url('BauhausStd-Medium.woff') format('woff'),
+      url('BauhausStd-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bauhaus Std';
+  src: url('BauhausStd-Light.eot');
+  src: local('Bauhaus Std Light'), local('BauhausStd-Light'),
+      url('BauhausStd-Light.eot?#iefix') format('embedded-opentype'),
+      url('BauhausStd-Light.woff2') format('woff2'),
+      url('BauhausStd-Light.woff') format('woff'),
+      url('BauhausStd-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bauhaus Std';
+  src: url('BauhausStd-Bold.eot');
+  src: local('Bauhaus Std Bold'), local('BauhausStd-Bold'),
+      url('BauhausStd-Bold.eot?#iefix') format('embedded-opentype'),
+      url('BauhausStd-Bold.woff2') format('woff2'),
+      url('BauhausStd-Bold.woff') format('woff'),
+      url('BauhausStd-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bauhaus Std';
+  src: url('BauhausStd-Heavy.eot');
+  src: local('Bauhaus Std Heavy'), local('BauhausStd-Heavy'),
+      url('BauhausStd-Heavy.eot?#iefix') format('embedded-opentype'),
+      url('BauhausStd-Heavy.woff2') format('woff2'),
+      url('BauhausStd-Heavy.woff') format('woff'),
+      url('BauhausStd-Heavy.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+/* latin */
+@font-face {
+  font-family: 'Cinzel Decorative';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/cinzeldecorative/v16/daaCSScvJGqLYhG8nNt8KPPswUAPni7TTMw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Cinzel Decorative';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/cinzeldecorative/v16/daaHSScvJGqLYhG8nNt8KPPswUAPniZoadlESTE.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin */
+@font-face {
+  font-family: 'Cinzel Decorative';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/cinzeldecorative/v16/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa9lESTE.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
